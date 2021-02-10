@@ -1,8 +1,8 @@
 # Pain Paints w.r.t Synapse Notebooks Experience
 
-## 1) Why note `.ipynb`?
+## 1) Why `.json` and not `.ipynb`?
 
-I can't even.
+No further comments.
 
 ## 2) No clear file system?
 
