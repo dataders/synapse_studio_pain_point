@@ -10,6 +10,8 @@ In every Jupyter notebook experience I've EVER used, if I open a notebook, the f
 
 If I run the the below snippet from [example.ipynb](example.ipynb) inside of the Synapse Studio UI, I don't see a `synapse_studio_pain_point/` as a directory, nor does `config.json` show up as a file in the current directory.
 
+As someone who might be labeled with the the "developer" persona, it is hard for me to imagine adopting a product that does not have this functionality.
+
 ```python
 import os
 print(os.getcwd())
