@@ -1,0 +1,9 @@
+{
+    "remote_run": false,
+    "mode": "all",
+    "pipeline_reuse": false,
+    "hyperdrive_runs": 5,
+    "aml_mode": "development",
+    "use_model_registry": false,
+    "validate_ut": false
+}
